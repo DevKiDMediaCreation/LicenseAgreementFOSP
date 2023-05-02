@@ -8,9 +8,9 @@ If you use a free or open source project, the rules of the license agreement app
 
 Changing the license as a user is strictly forbidden.  Only the creators are allowed to change the license contract or agreement as long as the project is still free and open source.
 
-The creators are not allowed to change the license within the general.  The users using the project must accept the license and enter the creator's name in markdown text above under the Title.  Example: "###### From DevKiD [date] [time] [country]*[abbreviation] [region]*[abbreviation] [city]*[abbreviation]"
+The creators are not allowed to change the license within the General part.  The users using the project must accept the license and enter the creator's name in the markdown text under the license version.  Example: "###### From DevKiD [date] [time] [country]*[acronym] [region]*[acronym] [city]*[acronym]"
 
-The * says that you canbuse the abbreviation or the fille Name.
+The * means you can use the abbreviation or the full name.
 
 Test Example:
 ```md
