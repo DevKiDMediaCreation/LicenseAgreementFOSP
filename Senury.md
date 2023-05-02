@@ -15,10 +15,10 @@ The * means you can use the abbreviation or the full name.
 Test Example:
 ```md
 # The Senury license agreement. Ver.: 1.0.A0001
-###### From DevKiD 01.05.2023 21:28 German Hessen Hanau
 ###### Tenten Developer-Studio License 2019-2023 Copyrights by Tenten and DevKiD 
 ###### Agreement and Privacy Police
 ###### Version 1.0.Alpha0001
+###### From DevKiD 01.05.2023 21:28 German Hessen Hanau
 
 ## General license agreement
 ...
